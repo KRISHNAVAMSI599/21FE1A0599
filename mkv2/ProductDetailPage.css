@@ -1,0 +1,11 @@
+
+.product-detail-page {
+    padding: 20px;
+  }
+  
+  .product-detail-page img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
